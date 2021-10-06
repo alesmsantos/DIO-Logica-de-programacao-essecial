@@ -1,7 +1,7 @@
-# DIO-Logica-de-programacao-essecial
-Exercícios do curso "Lógica de Programação Essencial" da Digital Innovation One.
+# DIO-Logica-de-Programacao-Essencial
+Exercícios do curso "**Lógica de Programação Essencial**" da [Digital Innovation One](https://digitalinnovation.one/ "DIO").
 
-Softwares utilizados:
+<u>**Softwares utilizados</u>:**
 
-Flowgorithm
-Portugol Studio
+- [Flowgorithm](http://www.flowgorithm.org/ "Flowgorithm")
+- [Portugol Studio](https://github.com/UNIVALI-LITE/Portugol-Studio "Portugol Studio")
